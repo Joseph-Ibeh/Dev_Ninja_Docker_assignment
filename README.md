@@ -20,7 +20,7 @@ This documentation provides the steps I followed to create and deploy a simple D
    - Configure the instance with a security group and key pair.
    - Launch the instance and note the public IPv4 address.
 
-![log in ]([images/sample1.jpg](https://github.com/Joseph-Ibeh/Dev_Ninja_Docker_assignment/blob/main/images/docker/log-in.png)
+![log in](https://github.com/Joseph-Ibeh/Dev_Ninja_Docker_assignment/blob/main/images/docker/log-in.png)
 
 ![click launch](https://github.com/Joseph-Ibeh/Dev_Ninja_Docker_assignment/blob/main/images/docker/click-launch-instance.png)
 
